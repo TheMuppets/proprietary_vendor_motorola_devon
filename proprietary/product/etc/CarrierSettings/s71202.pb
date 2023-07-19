@@ -1,10 +1,7 @@
 
-s71202˜À‡”Y
-Kolbikolbi3gP=
-
-Multimediakolbi3gPZhttp://mmsiceb10.184.202.24j8080"µ,
-(allow_emergency_numbers_in_call_log_bool( 
-hide_lte_plus_data_icon_bool(
+s71202°µˆ”@>
+Kolbikolbi3gPZhttp://mmsiceb10.184.202.24j8080"“,
+(allow_emergency_numbers_in_call_log_bool(
 maxImageHeight˜
 maxImageWidth 
 maxSubjectLengthP&

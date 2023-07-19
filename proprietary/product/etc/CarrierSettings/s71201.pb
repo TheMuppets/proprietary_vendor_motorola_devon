@@ -1,8 +1,7 @@
 
-s71201˜À‡”!
-Kolbi Internetkolbi3gP"µ,
-(allow_emergency_numbers_in_call_log_bool( 
-hide_lte_plus_data_icon_bool(
+s71201°µˆ”!
+Kolbi Internetkolbi3gP"“,
+(allow_emergency_numbers_in_call_log_bool(
 maxImageHeight˜
 maxImageWidth 
 maxSubjectLengthP&

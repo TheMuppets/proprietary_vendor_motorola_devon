@@ -1,5 +1,5 @@
 
-s72400˜À‡”"ú
+s72400°µˆ”"ú
 maxImageHeight˜
 maxImageWidth 
 maxSubjectLengthP&

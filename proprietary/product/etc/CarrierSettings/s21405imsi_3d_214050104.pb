@@ -1,5 +1,5 @@
 
-s21405imsi_3d_214050104˜À‡”~j
+s21405imsi_3d_214050104°µˆ”~j
 Movistartelefonica.esB
 telefonicaJ
 telefonicaPZhttp://mms.movistar.comb10.138.255.5j8080p

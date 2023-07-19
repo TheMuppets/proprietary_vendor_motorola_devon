@@ -1,5 +1,5 @@
 
-s26880˜À‡”"á
+s26880°µˆ”"á
 maxImageHeight˜
 maxImageWidth 
 recipientLimit"

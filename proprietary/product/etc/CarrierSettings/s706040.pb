@@ -1,5 +1,5 @@
 
-s706040˜À‡”±I
+s706040°µˆ”±I
 Movistar INTERNETinternet.movistar.svB
 movistarsvJ
 movistarsvPd
