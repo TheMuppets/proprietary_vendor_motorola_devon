@@ -1,6 +1,5 @@
 
-s71202°µˆ”@>
-Kolbikolbi3gPZhttp://mmsiceb10.184.202.24j8080"“,
+s71202ðóˆ”"“,
 (allow_emergency_numbers_in_call_log_bool(
 maxImageHeight˜
 maxImageWidth 

@@ -1,5 +1,5 @@
 
-s21420°µˆ”"ş¶
+s21420ğóˆ”"ş¶
 !non_roaming_operator_string_array2
 21401
 21403

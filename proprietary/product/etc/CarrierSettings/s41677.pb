@@ -1,9 +1,8 @@
 
-s41677∞µàî’í
-Orange JO MMSmms.orange.jo*http://172.16.1.96/servlets/mms2
-172.16.1.2:8080BmmcJmmcPZhttp://172.16.1.96/servlets/mmsb
-172.16.1.2j8080.
-	Orange JOnet.orange.joBnetJnetP
+s41677Ûàî¶]
+Orange JO MMSmms.orange.joBmmcJmmcZhttp://172.16.1.96/servlets/mmsb
+172.16.1.2j80805
+Orange JO Internetnet.orange.joBnetJnetPp
 VoLTEims"Í¶
  carrier_certificate_string_array2Å
 b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ojo,com.orange.phone.mea,com.orange.update?

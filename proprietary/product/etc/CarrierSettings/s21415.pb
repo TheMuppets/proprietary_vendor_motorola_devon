@@ -1,5 +1,5 @@
 
-s21415°µˆ”"”
+s21415ğóˆ”"”
 maxSubjectLengthP¶
 !non_roaming_operator_string_array2
 21401
