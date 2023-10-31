@@ -1,5 +1,5 @@
 
-s21406spn_3d_lebaraðóˆ”Ÿ,
+s21406spn_3d_lebaraü¡‰”Ÿ,
 Lebara Internetgprsmov.lebaramobile.eso
 
 Lebara MMSmms.lebaramobile.esBwap@wapJwap125Z'http://mms.lebaramobile.es/servlets/mmsb212.73.32.10j80"Ã

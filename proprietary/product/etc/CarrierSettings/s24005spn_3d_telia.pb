@@ -1,5 +1,5 @@
 
-s24005spn_3d_teliaðóˆ”"’
+s24005spn_3d_teliaü¡‰”"’
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€À%

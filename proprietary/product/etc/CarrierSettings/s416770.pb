@@ -1,5 +1,5 @@
 
-s416770ðóˆ”Å’
+s416770ü¡‰”Å’
 Orange JO MMSmms.orange.jo*http://172.16.1.96/servlets/mms2
 172.16.1.2:8080BmmcJmmcPZhttp://172.16.1.96/servlets/mmsb
 172.16.1.2j8080.

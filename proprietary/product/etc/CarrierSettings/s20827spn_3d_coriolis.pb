@@ -1,5 +1,5 @@
 
-s20827spn_3d_coriolisðóˆ”b
+s20827spn_3d_coriolisü¡‰”b
 CorioliscoriolisF
 Coriolis MMSmmscoriolisZhttp://mms.coriolis.frb	10.12.0.1j9028"¡O
 %carrier_vvm_package_name_string_array2&

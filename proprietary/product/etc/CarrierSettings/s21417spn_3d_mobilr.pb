@@ -1,5 +1,5 @@
 
-s21417spn_3d_mobilrðóˆ”"–Å
+s21417spn_3d_mobilrü¡‰”"–Å
 !non_roaming_operator_string_array2Ÿ
 21401
 21402

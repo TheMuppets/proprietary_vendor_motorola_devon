@@ -1,5 +1,5 @@
 
-s21416gid1_3d_16ğóˆ”·G
+s21416gid1_3d_16ü¡‰”·G
 telecable Internetinternet.telecable.esB	telecableJ	telecablePl
 telecable MMSmms.telecable.esB	telecableJ	telecablePZhttp://mms.telecable.es/mms/b212.89.0.84j8080"Ú¶
 !non_roaming_operator_string_array2

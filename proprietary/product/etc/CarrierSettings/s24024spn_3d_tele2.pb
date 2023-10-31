@@ -1,5 +1,5 @@
 
-s24024spn_3d_tele2ðóˆ”"’
+s24024spn_3d_tele2ü¡‰”"’
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€À%
