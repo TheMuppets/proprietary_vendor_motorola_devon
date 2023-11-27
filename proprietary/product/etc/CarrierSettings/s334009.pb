@@ -1,9 +1,8 @@
 
-s334009ü¡‰”"¬
+s334009ôôÓ"„
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€À%
-maxSubjectLengthP&
-"moto_enable_service_dialing_number(
+maxSubjectLengthP
 recipientLimit
 smsToMmsTextThreshold

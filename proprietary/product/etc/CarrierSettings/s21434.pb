@@ -1,5 +1,7 @@
 
-s21434ü¡‰”"†¾
+s21434ôôÓ"È
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(¾
 !non_roaming_operator_string_array2˜
 21401
 21402

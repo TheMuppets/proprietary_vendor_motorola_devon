@@ -1,7 +1,11 @@
 
-s246081ü¡‰”"x
+s246081ôôÓ"‚+
+#carrier_nr_availabilities_int_array:
 maxImageHeight˜
-maxImageWidth 
+maxImageWidth "
+moto_carrier_default_vonr_bool(
 recipientLimit
 show_apn_setting_cdma_bool(
-smsToMmsTextThreshold
+smsToMmsTextThreshold
+vonr_enabled_bool( 
+vonr_setting_visibility_bool(
