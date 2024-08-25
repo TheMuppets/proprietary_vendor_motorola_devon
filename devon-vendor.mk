@@ -95,9 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/ILITEK_FW:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ILITEK_FW \
     vendor/motorola/devon/proprietary/vendor/firmware/NT36xxx_MP_Setting_Criteria_6056.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/NT36xxx_MP_Setting_Criteria_6056.csv \
     vendor/motorola/devon/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
-    vendor/motorola/devon/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
-    vendor/motorola/devon/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
-    vendor/motorola/devon/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_afe_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_afe_params.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_mono.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_mono.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
@@ -113,7 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_fw.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_fw.bin \
     vendor/motorola/devon/proprietary/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tm_novatek_ts_mp.bin \
     vendor/motorola/devon/proprietary/recovery/root/vendor/firmware/tm_novatek_ts_mp.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tm_novatek_ts_mp.bin \
-    vendor/motorola/devon/proprietary/vendor/lib/libcamxexternalformatutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxexternalformatutils.so \
     vendor/motorola/devon/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_devon_ov02b10_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_devon_ov02b10_otp.so \
     vendor/motorola/devon/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p128e_s5kjn1_eeprom.so \
     vendor/motorola/devon/proprietary/vendor/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.mot.eeprom.mot_gt24p64b_hi1634q_eeprom.so \
