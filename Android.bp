@@ -2596,6 +2596,37 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libaidenoiser",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/libaidenoiser.so",
+            ],
+            shared_libs: [
+                "libcutils",
+                "liblog",
+                "libcdsprpc",
+                "libofflinelog",
+                "libsync",
+                "libbitmlengine",
+                "libz",
+                "libc++",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "libancbase_fd",
     owner: "motorola",
     strip: {
@@ -3614,6 +3645,30 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+    name: "libportrait_repair_ppl3_ocl",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/libportrait_repair_ppl3_ocl.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "libm",
+                "libc",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
     name: "libree_bix_agent",
     owner: "motorola",
     strip: {
@@ -3656,6 +3711,55 @@ cc_prebuilt_library_shared {
                 "libdl",
                 "libc",
                 "libm",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "libremosaiclib",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/libremosaiclib.so",
+            ],
+            shared_libs: [
+                "liblog",
+                "librmsclib1",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    soc_specific: true,
+}
+
+cc_prebuilt_library_shared {
+    name: "librmsclib1",
+    owner: "motorola",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/vendor/lib64/librmsclib1.so",
+            ],
+            shared_libs: [
+                "libm",
+                "libdl",
+                "liblog",
+                "libc",
             ],
         },
     },

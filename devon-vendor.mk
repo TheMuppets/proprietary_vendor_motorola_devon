@@ -3152,6 +3152,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/devon/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
     vendor/motorola/devon/proprietary/vendor/etc/st21nfc_conf_ds.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf_ds.txt \
     vendor/motorola/devon/proprietary/vendor/etc/st21nfc_conf_ss.txt:$(TARGET_COPY_OUT_VENDOR)/etc/st21nfc_conf_ss.txt \
+    vendor/motorola/devon/proprietary/vendor/etc/tetras/portrait_repair_composite.model:$(TARGET_COPY_OUT_VENDOR)/etc/tetras/portrait_repair_composite.model \
     vendor/motorola/devon/proprietary/vendor/etc/thermal-engine-devon.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-devon.conf \
     vendor/motorola/devon/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/motorola/devon/proprietary/vendor/etc/vhw.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vhw.xml \
@@ -3270,6 +3271,7 @@ PRODUCT_PACKAGES += \
     libAncFaceDetect \
     libBSTSWAD \
     libBSTbase_share \
+    libaidenoiser \
     libancbase_fd \
     libarcsoft_chi_utils \
     libarcsoft_low_light_shot \
@@ -3305,8 +3307,11 @@ PRODUCT_PACKAGES += \
     libofflinelog \
     libopencv \
     libopestriping \
+    libportrait_repair_ppl3_ocl \
     libree_bix_agent \
     libremosaic_wrapper \
+    libremosaiclib \
+    librmsclib1 \
     libswregistrationalgo \
     libtfestriping \
     libundistort_impl \
